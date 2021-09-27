@@ -8,7 +8,6 @@ public class Main {
      */
     public static void main(String[] args) {
         // write your code here
-        int n = 5; // размер массива
         int[] arr = createArray();
         fillArray(arr);
         printArray(arr);
